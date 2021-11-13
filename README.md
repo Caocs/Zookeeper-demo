@@ -15,18 +15,18 @@
 
 关于Zookeeper中Java API使用
 
-（2）example01
+（2）example02
 
 演示服务器动态上下线
 
-（3）example01
+（3）example03
 
 使用Zookeeper实现简单分布式锁
 
-（4）example01
+（4）example04
 
 使用Zookeeper实现简单分布式锁（优化）
 
-（5）example01
+（5）example05
 
 使用Curator框架演示分布式锁
